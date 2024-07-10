@@ -4,7 +4,7 @@
 
 set -euo pipefail
 
-BASE="/mnt/disks/sdb/binf6309-julianstanley/VariantCalling"
+BASE="/mnt/disks/sdb/binf6309/VariantCalling"
 BIN_VERSION="0.8.0"
 
 INPUT_DIR="${BASE}/input/data"
